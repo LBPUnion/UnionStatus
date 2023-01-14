@@ -3,11 +3,11 @@ owner: upptime # Your GitHub organization or username, where this repository liv
 repo: upptime # The name of this repository
 
 sites:
-  - name: Beacon: Game Server
+  - name: Beacon - Game Server
     url: https://lighthouse.lbpunion.com/LITTLEBIGPLANETPS3_XML/status
-  - name: Beacon: API
+  - name: Beacon - API
     url: https://lighthouse.lbpunion.com/api/v1/status
-  - name: Beacon: Website
+  - name: Beacon - Website
     url: https://beacon.lbpunion.com/status
 assignees:
   - sudokoko
