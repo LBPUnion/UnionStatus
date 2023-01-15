@@ -1,7 +1,7 @@
-url: https://lighthouse.lbpunion.com/LITTLEBIGPLANETPS3_XML/status
+url: $LIGHTHOUSE_GAME_SERVER_URL
 status: up
 code: 200
-responseTime: 255
-lastUpdated: 2023-01-14T23:09:18.453Z
+responseTime: 128
+lastUpdated: 2023-01-15T03:00:01.746Z
 startTime: Sat Jan 14 2023 03:31:45 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
