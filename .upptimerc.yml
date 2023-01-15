@@ -4,9 +4,9 @@ repo: UnionStatus # The name of this repository
 
 sites:
   - name: Beacon - Game Server
-    url: https://lighthouse.lbpunion.com/LITTLEBIGPLANETPS3_XML/status
+    url: $LIGHTHOUSE_GAME_SERVER_URL                       # hidden for security
   - name: Beacon - API
-    url: https://lighthouse.lbpunion.com/api/v1/status
+    url: $LIGHTHOUSE_API_URL                               # hidden for security
   - name: Beacon - Website
     url: https://beacon.lbpunion.com/status
 assignees:
