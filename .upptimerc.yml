@@ -5,10 +5,13 @@ repo: UnionStatus # The name of this repository
 sites:
   - name: Beacon - Game Server
     url: $LIGHTHOUSE_GAME_SERVER_URL                       # hidden for security
+    icon: https://beacon.lbpunion.com/logo-color.png
   - name: Beacon - API
     url: $LIGHTHOUSE_API_URL                               # hidden for security
+    icon: https://beacon.lbpunion.com/logo-color.png
   - name: Beacon - Website
     url: https://beacon.lbpunion.com/status
+    icon: https://beacon.lbpunion.com/logo-color.png
 assignees:
   - sudokoko
 
@@ -17,6 +20,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.lbpunion.com
   # baseUrl: /your-repo-name
+  theme: ocean
   logoUrl: https://media.discordapp.net/attachments/1045859676098674751/1063652564660404285/Seal_2021.png?width=968&height=904
   name: LBP Union Status
   introTitle: "Real time **Beacon** status data, at your fingertips."
