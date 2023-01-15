@@ -9,8 +9,6 @@ sites:
     url: $LIGHTHOUSE_API_URL                               # hidden for security
   - name: Beacon - Website
     url: https://beacon.lbpunion.com/status
-  - name: SCEE - PS4 Servers
-    url: https://littlebigplanetps3.online.scee.com:10061/LITTLEBIGPLANETPS3_XML
 assignees:
   - sudokoko
 
@@ -21,8 +19,8 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://media.discordapp.net/attachments/1045859676098674751/1063652564660404285/Seal_2021.png?width=968&height=904
   name: LBP Union Status
-  introTitle: "Real time **LittleBigPlanet** data, at your fingertips."
-  introMessage: Status monitoring of our in-house Lighthouse services, as well as LBP PS4 servers, powered by Upptime. Readily available to track even the smallest outages.
+  introTitle: "Real time **Beacon** status data, at your fingertips."
+  introMessage: Status monitoring of our in-house Lighthouse services, and in the future - LBP PS4 servers, powered by Upptime. Readily available to track even the smallest outages.
   navbar:
     - title: Status
       href: /
