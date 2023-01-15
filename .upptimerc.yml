@@ -6,12 +6,15 @@ sites:
   - name: Beacon - Game Server
     url: $LIGHTHOUSE_GAME_SERVER_URL                       # hidden for security
     icon: https://beacon.lbpunion.com/logo-color.png
+    maxResponseTime: 500
   - name: Beacon - API
     url: $LIGHTHOUSE_API_URL                               # hidden for security
     icon: https://beacon.lbpunion.com/logo-color.png
+    maxResponseTime: 500
   - name: Beacon - Website
     url: https://beacon.lbpunion.com/status
     icon: https://beacon.lbpunion.com/logo-color.png
+    maxResponseTime: 500
 assignees:
   - sudokoko
 
