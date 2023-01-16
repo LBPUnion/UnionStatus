@@ -15,6 +15,10 @@ sites:
     url: https://beacon.lbpunion.com/status
     icon: https://beacon.lbpunion.com/logo-color.png
     maxResponseTime: 500
+  - name: SCEE - PS4 Server
+    url: https://littlebigplanetps3.online.scee.com:10061/LITTLEBIGPLANETPS3_XML
+    expectedStatusCodes:
+      - 404
 assignees:
   - sudokoko
 
