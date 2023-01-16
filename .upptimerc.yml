@@ -17,6 +17,7 @@ sites:
     maxResponseTime: 500
   - name: SCEE - PS4 Server
     url: https://littlebigplanetps3.online.scee.com:10061/LITTLEBIGPLANETPS3_XML
+    __dangerous__insecure: true
     expectedStatusCodes:
       - 404
 assignees:
