@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 260,
-    "timeDay": 329,
-    "timeWeek": 260,
-    "timeMonth": 260,
-    "timeYear": 260,
+    "time": 250,
+    "timeDay": 270,
+    "timeWeek": 250,
+    "timeMonth": 250,
+    "timeYear": 250,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 167,
-    "timeDay": 205,
-    "timeWeek": 167,
-    "timeMonth": 167,
-    "timeYear": 167,
+    "time": 155,
+    "timeDay": 150,
+    "timeWeek": 155,
+    "timeMonth": 155,
+    "timeYear": 155,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 253,
-    "timeDay": 291,
-    "timeWeek": 253,
-    "timeMonth": 253,
-    "timeYear": 253,
+    "time": 241,
+    "timeDay": 233,
+    "timeWeek": 241,
+    "timeMonth": 241,
+    "timeYear": 241,
     "dailyMinutesDown": {}
   },
   {
@@ -58,19 +58,19 @@
     "url": "https://littlebigplanetps3.online.scee.com:10061/LITTLEBIGPLANETPS3_XML",
     "icon": "https://icons.duckduckgo.com/ip3/littlebigplanetps3.online.scee.com.ico",
     "slug": "scee-ps-4-server",
-    "status": "down",
-    "uptime": "12.90%",
-    "uptimeDay": "12.90%",
-    "uptimeWeek": "12.90%",
-    "uptimeMonth": "12.90%",
-    "uptimeYear": "12.90%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "2.84%",
+    "uptimeDay": "2.84%",
+    "uptimeWeek": "2.84%",
+    "uptimeMonth": "2.84%",
+    "uptimeYear": "2.84%",
+    "time": 433,
+    "timeDay": 433,
+    "timeWeek": 433,
+    "timeMonth": 433,
+    "timeYear": 433,
     "dailyMinutesDown": {
-      "2023-01-16": 0
+      "2023-01-16": 3
     }
   }
 ]
