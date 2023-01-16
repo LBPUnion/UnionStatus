@@ -1,5 +1,25 @@
 [
   {
+    "name": "SCEE - PS4 Server",
+    "url": "https://littlebigplanetps3.online.scee.com:10061/LITTLEBIGPLANETPS3_XML",
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Playstation_logo_colour.svg/2560px-Playstation_logo_colour.svg.png",
+    "slug": "scee-ps-4-server",
+    "status": "up",
+    "uptime": "79.25%",
+    "uptimeDay": "79.25%",
+    "uptimeWeek": "79.25%",
+    "uptimeMonth": "79.25%",
+    "uptimeYear": "79.25%",
+    "time": 538,
+    "timeDay": 538,
+    "timeWeek": 538,
+    "timeMonth": 538,
+    "timeYear": 538,
+    "dailyMinutesDown": {
+      "2023-01-16": 3
+    }
+  },
+  {
     "name": "Beacon - Game Server",
     "url": "$LIGHTHOUSE_GAME_SERVER_URL",
     "icon": "https://beacon.lbpunion.com/logo-color.png",
@@ -10,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 237,
-    "timeDay": 224,
-    "timeWeek": 237,
-    "timeMonth": 237,
-    "timeYear": 237,
+    "time": 245,
+    "timeDay": 249,
+    "timeWeek": 245,
+    "timeMonth": 245,
+    "timeYear": 245,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 146,
-    "timeDay": 125,
-    "timeWeek": 146,
-    "timeMonth": 146,
-    "timeYear": 146,
+    "time": 153,
+    "timeDay": 148,
+    "timeWeek": 153,
+    "timeMonth": 153,
+    "timeYear": 153,
     "dailyMinutesDown": {}
   },
   {
@@ -46,31 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 230,
-    "timeDay": 203,
-    "timeWeek": 230,
-    "timeMonth": 230,
-    "timeYear": 230,
+    "time": 239,
+    "timeDay": 231,
+    "timeWeek": 239,
+    "timeMonth": 239,
+    "timeYear": 239,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "SCEE - PS4 Server",
-    "url": "https://littlebigplanetps3.online.scee.com:10061/LITTLEBIGPLANETPS3_XML",
-    "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Playstation_logo_colour.svg/2560px-Playstation_logo_colour.svg.png",
-    "slug": "scee-ps-4-server",
-    "status": "up",
-    "uptime": "73.52%",
-    "uptimeDay": "73.52%",
-    "uptimeWeek": "73.52%",
-    "uptimeMonth": "73.52%",
-    "uptimeYear": "73.52%",
-    "time": 427,
-    "timeDay": 427,
-    "timeWeek": 427,
-    "timeMonth": 427,
-    "timeYear": 427,
-    "dailyMinutesDown": {
-      "2023-01-16": 3
-    }
   }
 ]
