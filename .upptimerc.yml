@@ -3,6 +3,12 @@ owner: LBPUnion # Your GitHub organization or username, where this repository li
 repo: UnionStatus # The name of this repository
 
 sites:
+  - name: SCEE - PS4 Server
+    url: https://littlebigplanetps3.online.scee.com:10061/LITTLEBIGPLANETPS3_XML
+    icon: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Playstation_logo_colour.svg/2560px-Playstation_logo_colour.svg.png
+    __dangerous__insecure: true
+    expectedStatusCodes:
+      - 404
   - name: Beacon - Game Server
     url: $LIGHTHOUSE_GAME_SERVER_URL                       # hidden for security
     icon: https://beacon.lbpunion.com/logo-color.png
@@ -15,12 +21,6 @@ sites:
     url: https://beacon.lbpunion.com/status
     icon: https://beacon.lbpunion.com/logo-color.png
     maxResponseTime: 500
-  - name: SCEE - PS4 Server
-    url: https://littlebigplanetps3.online.scee.com:10061/LITTLEBIGPLANETPS3_XML
-    icon: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Playstation_logo_colour.svg/2560px-Playstation_logo_colour.svg.png
-    __dangerous__insecure: true
-    expectedStatusCodes:
-      - 404
 assignees:
   - sudokoko
 
