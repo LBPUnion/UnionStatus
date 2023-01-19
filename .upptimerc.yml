@@ -10,11 +10,11 @@ sites:
     expectedStatusCodes:
       - 404
   - name: Beacon - Game Server
-    url: $LIGHTHOUSE_GAME_SERVER_URL                       # hidden for security
+    url: https://lighthouse.lbpunion.com/LITTLEBIGPLANETPS3_XML/status
     icon: https://beacon.lbpunion.com/logo-color.png
     maxResponseTime: 500
   - name: Beacon - API
-    url: $LIGHTHOUSE_API_URL                               # hidden for security
+    url: https://lighthouse.lbpunion.com/api/v1/status
     icon: https://beacon.lbpunion.com/logo-color.png
     maxResponseTime: 500
   - name: Beacon - Website
