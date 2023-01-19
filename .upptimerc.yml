@@ -40,5 +40,9 @@ status-website:
     - title: Discord
       href: https://discord.gg/lbpunion
 
+commitMessages:
+  commitAuthorName: "UnionStatus"
+  commitAuthorEmail: "unionstatus-github@kitgaming67.com"
+
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
