@@ -1,6 +1,5 @@
-# Change these first
-owner: LBPUnion # Your GitHub organization or username, where this repository lives
-repo: UnionStatus # The name of this repository
+owner: LBPUnion
+repo: UnionStatus
 
 sites:
   - name: SCEE - PS4 Server
@@ -25,10 +24,7 @@ assignees:
   - sudokoko
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.lbpunion.com
-  # baseUrl: /your-repo-name
   theme: ocean
   logoUrl: https://media.discordapp.net/attachments/1045859676098674751/1063652564660404285/Seal_2021.png?width=968&height=904
   name: LBP Union Status
@@ -43,6 +39,3 @@ status-website:
 commitMessages:
   commitAuthorName: "UnionStatus"
   commitAuthorEmail: "unionstatus-github@kitgaming67.com"
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
