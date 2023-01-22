@@ -58,17 +58,17 @@
     "url": "https://beacon.lbpunion.com/status",
     "icon": "https://beacon.lbpunion.com/logo-color.png",
     "slug": "beacon-website",
-    "status": "degraded",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1295,
-    "timeDay": 4544,
-    "timeWeek": 1704,
-    "timeMonth": 1295,
-    "timeYear": 1295,
+    "time": 1264,
+    "timeDay": 4071,
+    "timeWeek": 1645,
+    "timeMonth": 1264,
+    "timeYear": 1264,
     "dailyMinutesDown": {}
   }
 ]
