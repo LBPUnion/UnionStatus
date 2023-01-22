@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 222,
     "timeDay": 252,
-    "timeWeek": 212,
+    "timeWeek": 205,
     "timeMonth": 222,
     "timeYear": 222,
     "dailyMinutesDown": {}
@@ -48,7 +48,7 @@
     "uptimeYear": "100.00%",
     "time": 133,
     "timeDay": 136,
-    "timeWeek": 122,
+    "timeWeek": 118,
     "timeMonth": 133,
     "timeYear": 133,
     "dailyMinutesDown": {}
@@ -58,17 +58,17 @@
     "url": "https://beacon.lbpunion.com/status",
     "icon": "https://beacon.lbpunion.com/logo-color.png",
     "slug": "beacon-website",
-    "status": "down",
+    "status": "degraded",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 701,
-    "timeDay": 2380,
-    "timeWeek": 861,
-    "timeMonth": 701,
-    "timeYear": 701,
+    "time": 1295,
+    "timeDay": 4544,
+    "timeWeek": 1704,
+    "timeMonth": 1295,
+    "timeYear": 1295,
     "dailyMinutesDown": {}
   }
 ]
