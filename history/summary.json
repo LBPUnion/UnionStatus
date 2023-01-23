@@ -22,19 +22,19 @@
     "url": "https://lighthouse.lbpunion.com/LITTLEBIGPLANETPS3_XML/status",
     "icon": "https://beacon.lbpunion.com/logo-color.png",
     "slug": "beacon-game-server",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 222,
-    "timeDay": 252,
-    "timeWeek": 205,
-    "timeMonth": 222,
-    "timeYear": 222,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 217,
+    "timeDay": 175,
+    "timeWeek": 199,
+    "timeMonth": 217,
+    "timeYear": 217,
     "dailyMinutesDown": {
-      "2023-01-23": 2
+      "2023-01-23": 5
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "https://lighthouse.lbpunion.com/api/v1/status",
     "icon": "https://beacon.lbpunion.com/logo-color.png",
     "slug": "beacon-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 133,
-    "timeDay": 136,
-    "timeWeek": 118,
-    "timeMonth": 133,
-    "timeYear": 133,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.75%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 129,
+    "timeDay": 89,
+    "timeWeek": 114,
+    "timeMonth": 129,
+    "timeYear": 129,
     "dailyMinutesDown": {
-      "2023-01-23": 1
+      "2023-01-23": 4
     }
   },
   {
@@ -62,19 +62,19 @@
     "url": "https://beacon.lbpunion.com/status",
     "icon": "https://beacon.lbpunion.com/logo-color.png",
     "slug": "beacon-website",
-    "status": "degraded",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1803,
-    "timeDay": 4985,
-    "timeWeek": 2321,
-    "timeMonth": 1803,
-    "timeYear": 1803,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 1758,
+    "timeDay": 4611,
+    "timeWeek": 2243,
+    "timeMonth": 1758,
+    "timeYear": 1758,
     "dailyMinutesDown": {
-      "2023-01-23": 0
+      "2023-01-23": 3
     }
   }
 ]
