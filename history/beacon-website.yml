@@ -1,7 +1,7 @@
 url: https://beacon.lbpunion.com/status
-status: up
-code: 200
-responseTime: 262
-lastUpdated: 2023-01-23T03:16:50.937Z
+status: degraded
+code: 502
+responseTime: 22687
+lastUpdated: 2023-01-23T05:03:29.058Z
 startTime: Sat Jan 14 2023 03:31:47 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
