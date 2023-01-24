@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 539,
-    "timeDay": 573,
-    "timeWeek": 539,
-    "timeMonth": 539,
-    "timeYear": 539,
+    "time": 533,
+    "timeDay": 455,
+    "timeWeek": 542,
+    "timeMonth": 533,
+    "timeYear": 533,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,18 @@
     "icon": "https://beacon.lbpunion.com/logo-color.png",
     "slug": "beacon-game-server",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
-    "time": 217,
-    "timeDay": 175,
-    "timeWeek": 199,
-    "timeMonth": 217,
-    "timeYear": 217,
+    "uptime": "99.89%",
+    "uptimeDay": "98.88%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
+    "time": 213,
+    "timeDay": 105,
+    "timeWeek": 184,
+    "timeMonth": 213,
+    "timeYear": 213,
     "dailyMinutesDown": {
-      "2023-01-23": 5
+      "2023-01-23": 16
     }
   },
   {
@@ -43,18 +43,18 @@
     "icon": "https://beacon.lbpunion.com/logo-color.png",
     "slug": "beacon-api",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.75%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 129,
-    "timeDay": 89,
-    "timeWeek": 114,
-    "timeMonth": 129,
-    "timeYear": 129,
+    "uptime": "99.90%",
+    "uptimeDay": "98.99%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
+    "time": 126,
+    "timeDay": 46,
+    "timeWeek": 105,
+    "timeMonth": 126,
+    "timeYear": 126,
     "dailyMinutesDown": {
-      "2023-01-23": 4
+      "2023-01-23": 15
     }
   },
   {
@@ -63,18 +63,18 @@
     "icon": "https://beacon.lbpunion.com/logo-color.png",
     "slug": "beacon-website",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.78%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 1758,
-    "timeDay": 4611,
-    "timeWeek": 2243,
-    "timeMonth": 1758,
-    "timeYear": 1758,
+    "uptime": "99.90%",
+    "uptimeDay": "99.02%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
+    "time": 1714,
+    "timeDay": 4680,
+    "timeWeek": 2579,
+    "timeMonth": 1714,
+    "timeYear": 1714,
     "dailyMinutesDown": {
-      "2023-01-23": 3
+      "2023-01-23": 14
     }
   }
 ]
