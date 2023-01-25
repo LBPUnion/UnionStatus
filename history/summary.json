@@ -4,19 +4,19 @@
     "url": "https://littlebigplanetps3.online.scee.com:10061/LITTLEBIGPLANETPS3_XML",
     "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Playstation_logo_colour.svg/2560px-Playstation_logo_colour.svg.png",
     "slug": "scee-ps-4-server",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 547,
-    "timeDay": 739,
-    "timeWeek": 577,
-    "timeMonth": 547,
-    "timeYear": 547,
+    "status": "up",
+    "uptime": "99.92%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
+    "time": 538,
+    "timeDay": 570,
+    "timeWeek": 561,
+    "timeMonth": 538,
+    "timeYear": 538,
     "dailyMinutesDown": {
-      "2023-01-25": 0
+      "2023-01-25": 10
     }
   },
   {
