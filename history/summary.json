@@ -4,7 +4,7 @@
     "url": "https://littlebigplanetps3.online.scee.com:10061/LITTLEBIGPLANETPS3_XML",
     "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Playstation_logo_colour.svg/2560px-Playstation_logo_colour.svg.png",
     "slug": "scee-ps-4-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 577,
     "timeMonth": 547,
     "timeYear": 547,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-25": 0
+    }
   },
   {
     "name": "Beacon - Game Server",
