@@ -10,11 +10,11 @@
     "uptimeWeek": "99.90%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.95%",
-    "time": 566,
-    "timeDay": 408,
-    "timeWeek": 623,
-    "timeMonth": 566,
-    "timeYear": 566,
+    "time": 576,
+    "timeDay": 794,
+    "timeWeek": 630,
+    "timeMonth": 576,
+    "timeYear": 576,
     "dailyMinutesDown": {
       "2023-01-25": 10
     }
@@ -25,16 +25,16 @@
     "icon": "https://beacon.lbpunion.com/logo-color.png",
     "slug": "beacon-game-server",
     "status": "up",
-    "uptime": "99.93%",
+    "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
-    "time": 221,
-    "timeDay": 110,
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
+    "time": 224,
+    "timeDay": 347,
     "timeWeek": 250,
-    "timeMonth": 221,
-    "timeYear": 221,
+    "timeMonth": 224,
+    "timeYear": 224,
     "dailyMinutesDown": {
       "2023-01-23": 16
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
-    "time": 133,
-    "timeDay": 40,
-    "timeWeek": 159,
-    "timeMonth": 133,
-    "timeYear": 133,
+    "time": 136,
+    "timeDay": 237,
+    "timeWeek": 160,
+    "timeMonth": 136,
+    "timeYear": 136,
     "dailyMinutesDown": {
       "2023-01-23": 15
     }
@@ -65,16 +65,16 @@
     "icon": "https://beacon.lbpunion.com/logo-color.png",
     "slug": "beacon-website",
     "status": "up",
-    "uptime": "99.94%",
+    "uptime": "99.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
-    "time": 1482,
-    "timeDay": 99,
-    "timeWeek": 227,
-    "timeMonth": 1482,
-    "timeYear": 1482,
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.95%",
+    "time": 1457,
+    "timeDay": 324,
+    "timeWeek": 232,
+    "timeMonth": 1457,
+    "timeYear": 1457,
     "dailyMinutesDown": {
       "2023-01-23": 14
     }
