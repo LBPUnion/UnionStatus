@@ -93,19 +93,19 @@
     "url": "https://crashhelper.lbpunion.com",
     "icon": "https://crashhelper.lbpunion.com/favicon.ico",
     "slug": "lbp-union-crash-helper",
-    "status": "down",
-    "uptime": "99.91%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
-    "time": 360,
-    "timeDay": 360,
-    "timeWeek": 360,
-    "timeMonth": 360,
-    "timeYear": 360,
+    "status": "up",
+    "uptime": "77.56%",
+    "uptimeDay": "77.56%",
+    "uptimeWeek": "77.56%",
+    "uptimeMonth": "77.56%",
+    "uptimeYear": "77.56%",
+    "time": 311,
+    "timeDay": 311,
+    "timeWeek": 311,
+    "timeMonth": 311,
+    "timeYear": 311,
     "dailyMinutesDown": {
-      "2023-02-21": 0
+      "2023-02-21": 43
     }
   },
   {
