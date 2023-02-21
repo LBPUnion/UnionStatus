@@ -20,6 +20,14 @@ sites:
     url: https://beacon.lbpunion.com/status
     icon: https://beacon.lbpunion.com/logo-color.png
     maxResponseTime: 500
+  - name: LBP Union CrashHelper
+    url: https://crashhelper.lbpunion.com
+    icon: https://crashhelper.lbpunion.com/favicon.ico
+    maxResponseTime: 500
+  - name: LBP Union Press Conference CDN
+    url: https://cdn.drones.gay
+    icon: https://crashhelper.lbpunion.com/favicon.ico
+    maxResponseTime: 500
 assignees:
   - sudokoko
 
