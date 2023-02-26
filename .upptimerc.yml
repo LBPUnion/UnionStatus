@@ -20,6 +20,10 @@ sites:
     url: https://beacon.lbpunion.com/status
     icon: https://beacon.lbpunion.com/logo-color.png
     maxResponseTime: 500
+  - name: PS3 Toolset - Production
+    url: https://toolset.lbpunion.com
+    https://em-content.zobj.net/source/skype/289/hammer-and-pick_2692-fe0f.png
+    maxResponseTime: 500
   - name: LBP Union CrashHelper
     url: https://crashhelper.lbpunion.com
     icon: https://crashhelper.lbpunion.com/favicon.ico
@@ -28,6 +32,7 @@ sites:
     url: https://cdn.drones.gay
     icon: https://crashhelper.lbpunion.com/favicon.ico
     maxResponseTime: 500
+    
 assignees:
   - sudokoko
 
