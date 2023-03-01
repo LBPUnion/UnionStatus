@@ -11,4 +11,4 @@ jobs:
         title: ${{ github.event.issue.title }}
         message: A new status incident has been created. (${{ github.event.issue.id }})
         username: Agent Washington (UnionStatus)
-        colour: FFA500
+        colour: FF392B
