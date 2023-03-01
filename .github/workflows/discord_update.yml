@@ -1,7 +1,7 @@
 name: Status Change
 on: [issue_comment]
 jobs:
-  tweet:
+  webhook:
     runs-on: ubuntu-latest
     steps:
     - name: Discord Notify
