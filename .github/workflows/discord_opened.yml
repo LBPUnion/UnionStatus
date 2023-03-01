@@ -1,5 +1,7 @@
-name: Status New
-on: [issues]
+name: Status Opened
+on:
+  issues:
+    types: [opened]
 jobs:
   webhook:
     runs-on: ubuntu-latest

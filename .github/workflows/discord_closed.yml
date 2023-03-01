@@ -1,0 +1,16 @@
+name: Status Closed
+on:
+  issues:
+    types: [closed]
+jobs:
+  webhook:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Discord Notify
+      uses: stegzilla/discord-notify@v4
+      with:
+        webhook_url: ${{ secrets.NOTIFICATION_DISCORD_WEBHOOK_URL }}
+        title: ${{ github.event.issue.title }}
+        message: This status incident has been closed. (${{ github.event.issue.id }})
+        username: Agent Washington (UnionStatus)
+        colour: 2A9116
