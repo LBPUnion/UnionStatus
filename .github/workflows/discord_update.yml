@@ -9,7 +9,7 @@ jobs:
       with:
         webhook_url: ${{ secrets.NOTIFICATION_DISCORD_WEBHOOK_URL }}
         title: ${{ github.event.issue.title }}
-        message: Status incident ${{ github.event.issue.id }} has been updated. ```${{ github.event.issue.body }}```
+        message: This status incident has been updated. (${{ github.event.issue.id }}) ```${{ github.event.comment.body }}```
         username: Agent Washington (UnionStatus)
         colour: FFA500
         title_url: https://github.com/LBPUnion/UnionStatus/issues/${{ github.event.issue.id }}
