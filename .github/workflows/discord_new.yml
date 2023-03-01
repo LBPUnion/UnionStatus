@@ -1,0 +1,15 @@
+name: Status New Tweet
+on: [issues]
+jobs:
+  tweet:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Discord Notify
+      uses: stegzilla/discord-notify@v4
+      with:
+        webhook_url: ${{ secret.NOTIFICATION_DISCORD_WEBHOOK_URL }}
+        title: ${{ github.event.issue.title }}
+        message: Status incident ${{ github.event.issue.id }} has been created.
+        username: Agent Washington (UnionStatus)
+        colour: FFA500
+        title_url: https://github.com/LBPUnion/UnionStatus/issues/${{ github.event.issue.id }}
